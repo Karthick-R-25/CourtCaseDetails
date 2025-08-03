@@ -1,0 +1,38 @@
+.det-1{
+    background-color:rgba(0, 0, 0, 0.652);
+    color: rgb(107, 250, 104);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    justify-content: center;
+    border-radius: 0.3rem;
+    
+}
+.det-1 p{
+    background-color: rgba(85, 85, 212, 0.596);
+    height: 3rem;
+    width: 18rem;
+    text-align: center;
+    border-radius: 0.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.head1{
+    margin-right: 0.2rem;
+    color: black;
+     font-weight: bold;
+}
+.row1{
+       background-color:rgba(0, 0, 0, 0.652);
+     color: rgba(106, 250, 104, 0.912);
+}
+.ref1{
+    color: rgb(237, 44, 240);
+}
+.top1 h1{
+    color:  rgb(237, 44, 240);
+} 
+.top1 h2{
+ color: rgba(174, 237, 173, 0.912);
+}

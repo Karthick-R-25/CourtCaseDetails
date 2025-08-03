@@ -1,0 +1,68 @@
+.new1{
+    background-color: rgba(0, 0, 0, 0.488);
+    height: 50%;
+    width: 70%;
+    font-family: Merriweather;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin-left: 10rem;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+.new1 input,select{
+    width: 20rem;
+  
+    height: 3rem;
+    font-family: Merriweather;
+    font-size: 1.05rem;
+    background-color: rgba(0, 0, 0, 0.826);
+    color: white;
+    border: none;
+    outline: none;
+}
+.new1 input::placeholder{
+     color: white;
+}
+
+.cap-but{
+    background-color: rgba(255, 255, 255, 0.758);
+    height: 3rem;
+    width: 20rem;
+    border-radius: 0.3rem;
+    font-family: Merriweather;
+    font-weight: bolder;
+    font-size: 2rem;
+   border: none;
+}
+.sub-but{
+    width: 10rem;
+    height: 3rem;
+    border-radius: 0.1rem;
+    border: none;
+    background-color: rgba(2, 2, 31, 0.962);
+    color: white;
+    font-size: 1.2rem;
+    font-family: Merriweather;
+    cursor: pointer;
+}
+.sub-but:hover{
+    background-color: rgb(7, 7, 90);
+    
+}
+.status1{
+    color: rgba(106, 250, 104, 0.912);
+    font-size: 1.1rem;
+}
+.captch-but{
+    display: flex;
+    margin-left: 3rem;
+}
+.cap-3{
+    margin-left: 1rem;
+    font-size: 1.3rem;
+}

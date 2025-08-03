@@ -1,0 +1,33 @@
+.homebut{
+    height: 50%;
+    width: 80%;
+    margin-top: 3rem;
+    margin-left: 12rem;
+    color: rgba(106, 250, 104, 0.912);
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    border-radius: 1rem;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.homebut button{
+    margin: 3rem;
+    font-family: Merriweather;
+    width: 13rem;
+    height: 4rem;
+    border-radius: 1rem;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.704);
+    color: #9ba3f6;
+    font-weight: bold;
+    font-size: 1rem;
+    
+}
+.homebut button:hover {
+  background: #1A237E;
+  color: white;
+  transform: scale(1.05);
+}
